@@ -2,7 +2,7 @@
 🔭 I’m currently working as a WordPress Developer at Buraqtech<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 I’m currently learning MERN Stack Development (in deep).<br>💬 Ask me about WordPress, JavaScript, React.js
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadhuzaifaqayyum) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadhuzaifaqayyum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/muhammadhuzaifaqayyum) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mhuzaifaqayyum) 
 
 # 💻 Tech Stack:
