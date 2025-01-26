@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a WordPress Developer at Time Global Tech<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 I’m currently learning MERN Stack Development (in deep).<br>💬 Ask me about WordPress, JavaScript, React.js
+🔭 I’m currently working as a WordPress Developer & Team Lead at Cloudix Soft<br>👯 I’m looking to collaborate on WordPress Development and Frontend Development<br>🌱 I’m currently learning MERN Stack Development.<br>💬 Ask me about WordPress, JavaScript, React.js
 
 
 # 🌐 Socials:
