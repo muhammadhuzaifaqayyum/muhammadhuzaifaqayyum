@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a WordPress Developer & Team Lead at Cloudix Soft<br>👯 I’m looking to collaborate on WordPress Development and Frontend Development<br>🌱 I’m currently learning MERN Stack Development.<br>💬 Ask me about WordPress, JavaScript, React.js
+🔭 I’m currently working as a WordPress Developer & Team Lead at Cloudix Soft<br>👯 I’m looking to collaborate on WordPress Development and Frontend Development<br>🌱 I’m currently learning MERN Stack Development.<br>💬 Ask me about WordPress, Adobe Photoshop, and Adobe Illustrator.
 
 
 # 🌐 Socials:
